@@ -1,0 +1,7 @@
+#include "StdAfx.h"
+
+#define AVIOPENERROR -1
+#define AVIGETSTREAMERROR -2
+#define AVIENDGETFRAMEERROR -3
+#define AVISTREAMENDERROR -4
+#define AVIFILEENDERROR -5
